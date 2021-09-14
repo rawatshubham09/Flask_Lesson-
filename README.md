@@ -1,2 +1,2 @@
-# Flask_Lesson-
-Uploading Flask Lessons  for Future Refrence
+# Tkinter_Lesson-
+Uploading Tkinter Lessons  for Future Refrence
